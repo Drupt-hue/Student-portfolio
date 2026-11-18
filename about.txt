@@ -1,0 +1,7 @@
+Student Portfolio 
+
+Name: Drupt Mahajan
+Course: B.Tech CSE 
+College: Shoolini University 
+
+I am learning Git and GitHub. 
